@@ -1,8 +1,15 @@
 ---
 name: Project infrastructure paths
-description: GitHub, Godot, ComfyUI, Notion paths and URLs for ProjectCyclopes development
+description: GitHub, Godot, ComfyUI, Notion paths and URLs for ProjectCyclopes and MOKA backup
 type: reference
 ---
+
+## MOKA 백업
+
+| 항목 | 경로/URL |
+|------|---------|
+| GitHub | https://github.com/Cottons-Blue-leap/MOKA |
+| 로컬 레포 | C:\Users\user\Desktop\myProject\agents\MOKA |
 
 ## ProjectCyclopes 인프라
 
