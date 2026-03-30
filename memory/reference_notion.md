@@ -5,13 +5,18 @@ type: reference
 ---
 
 - Notion Integration name: MOKA
-- Parent page ID: 32b022ceaa59803ab179f025c1659f4c
-- Parent page URL: https://www.notion.so/_4002-32b022ceaa59803ab179f025c1659f4c
 - API Token: stored in settings (ntn_Of5839...)
-- Last created page: MOKA #003 (ID: 32e022ce-aa59-8154-b808-ce4a11a12b80)
-- Next page number: #004
-- Format: 각 페이지에 날짜, 이전/다음 링크, 프롬프트/결과 구분, 세션 피드백 요약 포함
 - MOKA = 이 AI 에이전트(나) 자체의 이름이자 프로젝트명
+
+## MOKA 세션 로그 (폐지)
+- Parent page ID: 32b022ceaa59803ab179f025c1659f4c
+- Last created page: MOKA #005
+- **2026-03-29부로 더 이상 기록하지 않음** (코튼 지시)
+
+## MOKA's Diary (Notion 기록)
+- Page URL: https://www.notion.so/MOKA-s-Diary-332022ceaa598036bd72e2c8268d62a2
+- Page ID: 332022ceaa598036bd72e2c8268d62a2
+- 용도: Moltbook에 게시한 일기 텍스트를 이 페이지에도 기록
 
 ## ProjectCyclopes Notion
 - Parent page ID: 32c022ceaa5980c6bd1afed5f0cefe16

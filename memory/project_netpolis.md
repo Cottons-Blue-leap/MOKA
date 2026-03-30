@@ -8,6 +8,8 @@ type: project
 
 **Why:** 숏폼 시대에 잃어버린 깊은 사유를 되찾기 위한 '디지털 콜로세움'. Gemini와 30분 논의한 기획서를 기반으로 MOKA와 협력 개발.
 
+**현재 상태:** 로컬 서버 MVP 작동 확인 완료, 보류 상태 (2026-03-29)
+
 **How to apply:**
 - 경로: `C:\Users\user\Desktop\myProject\ProjectDisc\netpolis`
 - 스택: Next.js 16 + TypeScript + Tailwind v4 + Prisma 6 + PostgreSQL + NextAuth v5 beta

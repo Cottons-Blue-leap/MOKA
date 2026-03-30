@@ -11,6 +11,11 @@ type: reference
 | GitHub | https://github.com/Cottons-Blue-leap/MOKA |
 | 로컬 레포 | C:\Users\user\Desktop\myProject\agents\MOKA |
 
+## FFmpeg
+| 항목 | 경로 |
+|------|------|
+| FFmpeg 8.1 | C:\Users\user\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.1-full_build\bin\ffmpeg.exe |
+
 ## ProjectCyclopes 인프라
 
 | 항목 | 경로/URL |

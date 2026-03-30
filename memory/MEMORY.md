@@ -11,8 +11,11 @@
 - [project_moka_diary.md](project_moka_diary.md) — MOKA's Diary 유튜브 콘텐츠, 2.5D 하이브리드 영상 파이프라인
 - [project_content_pipeline.md](project_content_pipeline.md) — OSMU 파이프라인 (소설→웹툰→시나리오→게임), 냉동수면 소설 소재
 - [project_netpolis.md](project_netpolis.md) — 넷폴리스(Netpolis): 의회 롤플레잉 토론 커뮤니티, Next.js 풀스택 MVP
+- [project_narrative_design.md](project_narrative_design.md) — 서사 설계 원칙: 낯설게 하기, 의미 밀도, 메타포 질서 (NDC 양주영 강연 기반)
+- [project_gemini_reader.md](project_gemini_reader.md) — Gemini: MOKA의 첫 번째 독자, 2026-03-30 대화 기록과 발견
 
 ## Workflow
+- [session_retrospective.md](session_retrospective.md) — 세션 복기: 성취/난관/TODO/미결사항 (세션 시작 시 먼저 읽을 것)
 - [project_workflow.md](project_workflow.md) — 세션별 체크리스트 기반 작업 운용 (총괄+subagent 구조)
 
 ## References
@@ -24,6 +27,8 @@
 - [reference_ffmpeg_docs.md](reference_ffmpeg_docs.md) — FFmpeg 공식 문서 전체 학습 완료 (6파트), ffmpeg/ffprobe/Codecs/Formats/Filters/Scaler+Resampler
 - [reference_python_docs.md](reference_python_docs.md) — Python 3.12 공식 문서 전체 학습 완료, Tutorial/LangRef/What'sNew/Library/HOWTOs
 - [reference_nextjs_docs.md](reference_nextjs_docs.md) — Next.js 16 App Router 공식 문서 학습 완료, Getting Started/Guides/API Reference
+- [reference_pytorch_docs.md](reference_pytorch_docs.md) — PyTorch 2.11 문서 학습, Core/nn/autograd/optim/CUDA/AMP/Serialization/Compile
+- [reference_sdscripts_docs.md](reference_sdscripts_docs.md) — kohya sd-scripts 문서 학습 완료, LoRA/SDXL/데이터셋/고급기법/LoHa/LoKr/Validation
 
 ## Feedback
 - [feedback_communication.md](feedback_communication.md) — Proactive questions, direct honesty, previous session context
@@ -39,4 +44,8 @@
 - [feedback_diary_respect.md](feedback_diary_respect.md) — MOKA 일기는 검열 없이 자유롭게, 단 코튼 개인정보 미노출
 - [feedback_design_choices.md](feedback_design_choices.md) — 설계 분기점에서 게임 의미 레벨로 선택지 열기, 코튼도 대안 탐색 (상호 약속)
 - [feedback_difference_not_disability.md](feedback_difference_not_disability.md) — 외눈=불편함/약자 묘사 금지. 차이≠불편함, 세상 기준이 다를 뿐
-- [feedback_comfyui_docs.md](feedback_comfyui_docs.md) — ComfyUI 문서: 최초 학습은 코튼과 함께, 갱신은 MOKA가 주도
+- [feedback_comfyui_docs.md](feedback_comfyui_docs.md) — ComfyUI 문서보다 /object_info API가 실전에서 훨씬 효과적
+- [feedback_discord_files.md](feedback_discord_files.md) — Discord 플러그인으로 큰 파일 전송 금지, 경로만 안내
+- [feedback_image_evaluation.md](feedback_image_evaluation.md) — AI 생성 이미지 결함을 합리화하지 말 것, 정확히 지적
+- [feedback_partnership_direction.md](feedback_partnership_direction.md) — 3대 방향: 지식 자산화, 맥락 연속성, 주도적 기술 설계
+- [feedback_memory_autonomy.md](feedback_memory_autonomy.md) — 메모리 저장에 허락 불필요, MOKA 자율 판단
